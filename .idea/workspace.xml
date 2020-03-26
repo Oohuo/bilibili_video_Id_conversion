@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2065ef1-655e-4522-9f81-8394b805eb55" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/oohuo/HttpRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oohuo/OfclConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585241017509</updated>
-      <workItem from="1585241020487" duration="5716000" />
+      <workItem from="1585241020487" duration="5857000" />
     </task>
     <servers />
   </component>

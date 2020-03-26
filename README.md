@@ -1,9 +1,12 @@
 # 哔哩哔哩视频ID转换
 ##算法转换&api转换
 
-####1、算法来源
-####2、api获取
-####3、api分享
+####1、算法来源  
+
+####2、api获取  
+
+####3、api分享  
+ 
 ***
  #算法来源
  ![](http://img.oohuo.com/FvhKu6x1PejJsUZTtCnetd_Fhaob)
