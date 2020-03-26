@@ -75,7 +75,7 @@ public class BilibiliVideoIdConversion {
 
     public static void main(String[] args) {
         //放一个党妹视频测试
-        System.out.println(v2b("av55443085"));
-        System.out.println(b2v("BV1H4411P7rE"));
+        System.out.println("https://www.bilibili.com/video/av"+v2b("av55443085"));
+        System.out.println("https://www.bilibili.com/video/"+b2v("BV1H4411P7rE"));
     }
 }
